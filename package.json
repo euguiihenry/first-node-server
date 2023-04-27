@@ -1,0 +1,32 @@
+{
+  "name": "node-server-project",
+  "version": "1.0.0",
+  "description": "Working in an example of node server to build my first backend project",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "-",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euguiihenry/first-node-server.git"
+  },
+  "keywords": [
+    "node-server",
+    "node",
+    "JS",
+    "expressJS",
+    "node-fetch"
+  ],
+  "author": "Guilherme Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euguiihenry/first-node-server/issues"
+  },
+  "homepage": "https://github.com/euguiihenry/first-node-server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1"
+  }
+}
